@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "117447307653",
+    "project_id": "cradix-4e6c9",
+    "storage_bucket": "cradix-4e6c9.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:117447307653:android:50492aefcbf336612cd4ec",
+        "android_client_info": {
+          "package_name": "com.cradix.user"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBBo-XR4_1XS_NqOrWonUeMvTNjxb_-_eI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
